@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Frankee-Blue-Lozano
+- 👋 Hi, I’m Blue
 - 👀 I’m interested in Marvel
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me discord, insta, and dms
 
 <!---
 Frankee-Blue-Lozano/Frankee-Blue-Lozano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
